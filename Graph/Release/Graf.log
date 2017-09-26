@@ -1,0 +1,15 @@
+﻿  Graph.cpp
+Graph.cpp(240): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  interface.cpp
+  Orgraph.cpp
+Orgraph.cpp(58): warning C4101: 'trash': unreferenced local variable
+Orgraph.cpp(259): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+Orgraph.cpp(1330): warning C4018: '<': signed/unsigned mismatch
+  test.cpp
+  Generating code
+  All 662 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graf.vcxproj -> C:\Games\перенос\Projects\Graph\Release\Graph.exe
+  Graf.vcxproj -> C:\Games\перенос\Projects\Graph\Release\Graph.pdb (Full PDB)
